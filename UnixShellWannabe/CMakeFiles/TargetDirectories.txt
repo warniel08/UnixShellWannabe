@@ -1,0 +1,3 @@
+/Users/warnernielsen/Documents/MSD/CS6010/WarnerNielsen/CS6013/UnixShellWannabe/UnixShellWannabe/CMakeFiles/rebuild_cache.dir
+/Users/warnernielsen/Documents/MSD/CS6010/WarnerNielsen/CS6013/UnixShellWannabe/UnixShellWannabe/CMakeFiles/edit_cache.dir
+/Users/warnernielsen/Documents/MSD/CS6010/WarnerNielsen/CS6013/UnixShellWannabe/UnixShellWannabe/CMakeFiles/main.dir

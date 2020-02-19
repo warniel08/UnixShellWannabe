@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/warnernielsen/Documents/MSD/CS6010/WarnerNielsen/CS6013/UnixShellWannabe/UnixShellWannabe/main.cpp
+shelpers.hpp
+/Users/warnernielsen/Documents/MSD/CS6010/WarnerNielsen/CS6013/UnixShellWannabe/UnixShellWannabe/shelpers.hpp
+iostream
+-
+stdio.h
+-
+readline/readline.h
+-
+readline/history.h
+-
+
+/Users/warnernielsen/Documents/MSD/CS6010/WarnerNielsen/CS6013/UnixShellWannabe/UnixShellWannabe/shelpers.hpp
+string
+-
+iostream
+-
+unistd.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+vector
+-
+stdio.h
+-
+
